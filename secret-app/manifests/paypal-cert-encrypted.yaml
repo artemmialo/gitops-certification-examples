@@ -1,4 +1,4 @@
-apiversion: bitnami.com/v1alpha1\
+apiversion: bitnami.com/v1alpha1
 kind: SealedSecret
 metadata:  
   creationTimestamp: null  
